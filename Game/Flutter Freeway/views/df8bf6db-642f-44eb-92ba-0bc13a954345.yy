@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "id": "df8bf6db-642f-44eb-92ba-0bc13a954345",
     "modelName": "GMFolder",
@@ -16,4 +17,19 @@
     "folderName": "sprites",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Sprites"
+=======
+{
+    "id": "df8bf6db-642f-44eb-92ba-0bc13a954345",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "df8bf6db-642f-44eb-92ba-0bc13a954345",
+    "children": [
+        "65efda48-62a1-4ef3-8822-e6719254fc1d",
+        "a666659e-d359-46c6-a1b5-1f105b9cec27"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "sprites",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Sprites"
+>>>>>>> Stashed changes
 }

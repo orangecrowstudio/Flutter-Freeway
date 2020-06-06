@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "id": "3919c2b1-eee2-4a73-8b82-4bb5bff7a6a8",
     "modelName": "GMFolder",
@@ -14,4 +15,20 @@
     "folderName": "objects",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Objects"
+=======
+{
+    "id": "3919c2b1-eee2-4a73-8b82-4bb5bff7a6a8",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3919c2b1-eee2-4a73-8b82-4bb5bff7a6a8",
+    "children": [
+        "27d986e8-48af-46e9-b2da-afbe50c49f3d",
+        "755eb012-6452-41a1-86aa-20b51e2fac54",
+        "ec60a4a6-17b6-4bc4-a7c2-62502fc3fb84"
+    ],
+    "filterType": "GMObject",
+    "folderName": "objects",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Objects"
+>>>>>>> Stashed changes
 }
