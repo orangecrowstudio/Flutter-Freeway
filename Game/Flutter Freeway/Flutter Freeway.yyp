@@ -56,6 +56,14 @@
             }
         },
         {
+            "Key": "0faf5cc7-5ff6-49a5-b223-77af2d423af1",
+            "Value": {
+                "id": "f30b62ab-c660-4079-a9fa-cf57fb8c61ce",
+                "resourcePath": "sprites\/spr_carGray\/spr_carGray.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e31a600-c619-4472-a1b7-d30304922273",
             "Value": {
                 "id": "09064182-bbd7-422b-bc47-491a0e37346e",
@@ -104,11 +112,27 @@
             }
         },
         {
+            "Key": "357ec547-726a-4e22-b80b-42e48c3c276b",
+            "Value": {
+                "id": "bc538135-32c7-46d2-aa05-943e5169e592",
+                "resourcePath": "sprites\/spr_carPurple\/spr_carPurple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3919c2b1-eee2-4a73-8b82-4bb5bff7a6a8",
             "Value": {
                 "id": "d2a9496e-e0bb-47d0-b0f0-51cfedcd27e0",
                 "resourcePath": "views\/3919c2b1-eee2-4a73-8b82-4bb5bff7a6a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3b5afd01-047f-4a61-9bb9-f3cbca6153cc",
+            "Value": {
+                "id": "30a0b424-39d4-4b0e-a56d-a8a022395c1d",
+                "resourcePath": "sprites\/spr_carYellow\/spr_carYellow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -120,10 +144,26 @@
             }
         },
         {
+            "Key": "3d8eb05e-6bb1-45bc-863f-e3889ad820c3",
+            "Value": {
+                "id": "5230e383-b4ed-4adf-a5b5-08501a459fba",
+                "resourcePath": "objects\/obj_testButt11111\/obj_testButt11111.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "520f4997-4d30-43df-b21b-ea981689af64",
             "Value": {
                 "id": "370d33d9-ff23-4027-aef9-8449834c86dc",
                 "resourcePath": "sprites\/spr_poisonflower\/spr_poisonflower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5fc84f29-2a8f-4979-b999-9d0ff532a2d9",
+            "Value": {
+                "id": "69747b35-e54c-45ea-bce2-4909ef28647f",
+                "resourcePath": "sprites\/spr_carWhite\/spr_carWhite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -192,6 +232,14 @@
             }
         },
         {
+            "Key": "91343610-ce1b-4636-8a02-852034eb55f0",
+            "Value": {
+                "id": "b38af488-434a-4702-a253-3b0b59b12236",
+                "resourcePath": "sprites\/spr_carGreen\/spr_carGreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "98595f86-f8e7-4079-a585-0dd32683329b",
             "Value": {
                 "id": "887560ef-92f4-4982-a663-596d82abc44f",
@@ -220,6 +268,14 @@
             "Value": {
                 "id": "022e3eac-ecfd-4ac9-ae6c-3ee0f7391610",
                 "resourcePath": "sprites\/spr_flower\/spr_flower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c80bb827-cc9b-4ffe-a0cd-827bfdf0775a",
+            "Value": {
+                "id": "2f8f8eec-1d25-4cb8-8193-d7678de6195c",
+                "resourcePath": "sprites\/spr_carRed\/spr_carRed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -253,6 +309,14 @@
                 "id": "671b2029-2f06-43ca-a146-33129545b945",
                 "resourcePath": "objects\/obj_testButt1\/obj_testButt1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "de0fcf90-536d-4eb8-bc8d-e04bb1f52b36",
+            "Value": {
+                "id": "df58920b-d1ae-462f-a4d2-09ddb9fc8405",
+                "resourcePath": "sprites\/spr_carOrange\/spr_carOrange.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
